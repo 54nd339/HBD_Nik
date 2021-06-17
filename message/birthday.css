@@ -10,7 +10,7 @@ body{
     z-index: 1;
     background-image:url(card.jpeg);
     background-size: 100%;
-    overflow-x: hidden;
+    overflow: hidden;
     background-repeat: no-repeat;
 }
 .paper {
